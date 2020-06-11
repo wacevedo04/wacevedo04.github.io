@@ -14,7 +14,7 @@ function setup() {
 }
 
 function draw() {
-    
+
     // Inverts color within canvas
     if (mouseX < x_setup*2) {
         if (mouseX > 0) {
